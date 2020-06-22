@@ -1,0 +1,2 @@
+# HelloFriend
+Android Studio application.
